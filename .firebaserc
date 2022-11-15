@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pokedex-e4e63": {
+      "hosting": {
+        "CRUD-Pokedex": [
+          "pokedex-e4e63"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pokedex-e4e63"
+  }
+}
